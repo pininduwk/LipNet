@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pininduwk/LipNet/blob/main/LipNet.ipynb)
+
 # LipNet
 
 The LipNet is a deep learning model for lip reading that was proposed by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas from the University of Oxford in 2016. The model uses spatiotemporal convolutional neural networks (CNNs) to learn features from videos of people speaking and then maps these features to corresponding words.
