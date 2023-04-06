@@ -1,4 +1,4 @@
-
+[![CodeQL](https://github.com/pininduwk/LipNet/actions/workflows/codeql.yml/badge.svg)](https://github.com/pininduwk/LipNet/actions/workflows/codeql.yml)
 
 # LipNet
 
@@ -8,4 +8,4 @@ The model takes as input a sequence of 75 video frames of a person speaking and 
 
 One unique aspect of LipNet is that it was trained on the GRID corpus, a dataset of 1000 videos of 34 speakers recorded in four different positions and under different lighting conditions. The model achieved an accuracy of 95.2% on the GRID corpus, outperforming previous state-of-the-art lip reading models.
 
-Data:- "https://drive.google.com/uc?id=1YlvpDLix3S-U8fd-gqRwPcWXAXm8JwjL"
+
