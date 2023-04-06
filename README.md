@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pininduwk/LipNet/blob/main/LipNet.ipynb)
+
 
 # LipNet
 
